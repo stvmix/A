@@ -1,0 +1,77 @@
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1610/cartoonito/showpage/tr/cartoonito-logo-min.8cbf6eca.png?imwidth=250", Cartoonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-us-west-2.amazonaws.com/vixnetapi/estoesmedia/612694e29af0c_el-gourmet.png",Gourmet HD
+https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2018/09/love_nature_logo_white_rgb.png", LOVE NATURE L
+https://linear-390.frequency.stream/dist/localnow/390/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4819995.png", NATGEO rr_995rrr
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_995rrr
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/10338111.png", DISCOVERY CHANNEL dt_yy83
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/10338111.png", DISCOVERY CHANNEL HD
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4856514.png", HISTORY HD
+https://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4839334.png", CINEMAX en Vivo cc_x2t3x
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_cinemax_m.png",CINEMAX HD
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/8567103.png", SPACE en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mt_025tm
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png",Space HD
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4044004.png", TNT en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/yf_09ncv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" tvg-group="CINE Y SERIES", TNT HD
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/10020493.png", SONY en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/nt_044tn
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU" group-title="SERIES", SONY HD
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="SERIES", AMC HD
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4846500.png",  AXN en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/atc432t
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png",CINECANAL
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhd4vWNgnYdO3-ICOj128z5ZfWo6QWc5ckd7WUd3NZ5rV5Pik3E9gMTAy0ILqey7G0YW4&usqp=CAU", HBO PLUS HD
+https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUrUr2vxLsQgJ-7lHfAtApvDvik8sFti2-toOSNWqXWfkcw4Vj15wdDUcq6DxFh3wwrs&usqp=CAU", HBO POP
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/de4d1e/hbo/450_1000.gif", HBO HD
+https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4839172.png",HBO 2 HD
+https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/4839172.png", HBO2 en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bactr2gtt
+
+#EXTINF:-1 tvg-logo="https://www.axsbolivia.com/axsplus/img/canales/7314258.png", HBO en vivo
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013?tt_content=channel_name&tt_medium=embed
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRaf_iLsAU8uEUaK4Czj5MyykmbXiZB1lgb1xobBhmbDUqkYfB",HTV HD
+https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1c/f1/cc/1cf1cc97-fc13-785e-b247-4a63f60bd1ca/source/512x512bb.jpg",MTV HD
+https://delivery.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
